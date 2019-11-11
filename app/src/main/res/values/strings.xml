@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">GithubRepo</string>
+    <string name="github_base_url"> https://api.github.com/</string>
+    <string name="search">Search</string>
+    <string name="enter_your_search">Enter your search</string>
 </resources>
